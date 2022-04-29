@@ -2,8 +2,6 @@
 #### Project creation date: 29th April 2022
 #### Main lead programmer: Prashant Kumar Moroliya
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 **Tic-tac-toe**, **noughts and crosses**, or **Xs and Os** is a 2 player game.
@@ -35,3 +33,35 @@ Dillinger uses a number of open source projects to work properly:
 
 
 <a href="https://c4.wallpaperflare.com/wallpaper/155/224/936/coming-coming-soon-sign-text-wallpaper-preview.jpg" target="_blank"> <img src="https://user-images.githubusercontent.com/62107887/130696039-68b4276e-8b78-4eb6-8aa9-ac2ac681e828.png" width="150" height="70" > </a>
+
+# My personal links
+
+| PLATFORM | LINKS |
+| ------ | ------ |
+| GitHub | <a href="https://github.com/prashantmoroliya" />[GitHub] |
+| LinkedIn | <a href="https://www.linkedin.com/in/prashantmoroliya/" />[LinkedIn] |
+| Twitter | <a href="https://twitter.com/pkmoroliya" />[Twitter] |
+| Reddit | <a href="https://www.reddit.com/user/darthlordvader" />[Reddit] |
+| Instagram | <a href="https://www.instagram.com/prashantmoroliya/" />[Instagram] |
+| Portfolio | <a href="https://prashantmoroliya.wixsite.com/portfolio" />[Portfolio] |
+
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<br>
+	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
+	<p>Loading</p>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
+
+**Free Software, Hell Yeah!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [Android]: <https://www.android.com>
+   [Android Developer]: <https://developer.android.com/>
+   [Kotlin]: <https://kotlinlang.org/>
