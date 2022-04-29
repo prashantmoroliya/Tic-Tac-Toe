@@ -51,7 +51,6 @@ Dillinger uses a number of open source projects to work properly:
 	<br>
 	<br>
 	<img src="https://external-preview.redd.it/GKqw-Sy71nD_O24vxDPcE_cPQPsksku3ef18PtpSDHM.jpg?auto=webp&s=c5f4c64ad43fb5adf3db325d0cbfb975c2cc9954">
-	<p>Loading</p>
 	<br>
 	<br>
 	<br>
