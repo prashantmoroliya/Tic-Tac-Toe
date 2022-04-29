@@ -50,7 +50,7 @@ Dillinger uses a number of open source projects to work properly:
 	<br>
 	<br>
 	<br>
-	<img src="https://thumbs.gfycat.com/DangerousFamousHoopoe-mobile.mp4">
+	<img src="https://external-preview.redd.it/GKqw-Sy71nD_O24vxDPcE_cPQPsksku3ef18PtpSDHM.jpg?auto=webp&s=c5f4c64ad43fb5adf3db325d0cbfb975c2cc9954">
 	<p>Loading</p>
 	<br>
 	<br>
@@ -58,7 +58,6 @@ Dillinger uses a number of open source projects to work properly:
 	<br>
 </div>
 
-**Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
